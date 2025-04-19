@@ -2,5 +2,5 @@
 
 TO DO's:
 
-# Criar apresentação
-# Realizar melhorias no classificador
+- Criar apresentação
+- Realizar melhorias no classificador
