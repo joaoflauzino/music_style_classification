@@ -47,7 +47,7 @@ if __name__ == "__main__":
 
     model_id = "meta-llama/Meta-Llama-3-8B-Instruct"
 
-    client = InferenceClient(model_id, provider="together")
+    client = InferenceClient(model_id, provider="novita")
 
     train_examples = read_categories_examples()
     test_examples, ground_truth = get_examples_to_classify()

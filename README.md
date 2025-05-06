@@ -1,6 +1,7 @@
 # music_style_classification
 
-TO DO's:
+Proof of Concept (POC) repository for classifying music genres
+based on song lyrics.
 
-- Criar apresentação
-- Realizar melhorias no classificador
+Note:
+The notebooks in this repository were executed using Google Colab.
